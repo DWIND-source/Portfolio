@@ -1,0 +1,35 @@
+ARTIFACT-03 · TAILORED COVER LETTERS
+
+Cover Letter 01 — Thermal / Energy Systems Internship
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Mechanical Engineering Internship position focused on thermal and energy systems. I am currently pursuing a B.Sc. in Mechanical Engineering at VinUniversity, where I have developed a strong interest in heat transfer, battery thermal management, and simulation-driven engineering design. I am especially motivated by opportunities that apply mechanical engineering fundamentals to energy efficiency, sustainability, and real-world engineering systems.
+
+My research experience has prepared me to contribute to a thermal or energy systems team. As a Research Assistant at the Center for Environmental Intelligence, I have worked on multiphysics simulation for battery energy storage systems, with a focus on coupling electrochemical heat generation and thermal transport. This experience strengthened my understanding of heat transfer, model setup, simulation interpretation, and the importance of validating engineering assumptions. In addition, my coursework in thermodynamics, fluid mechanics, heat transfer, and engineering design has given me a strong technical foundation for analyzing complex thermal systems.
+
+Beyond research, I have gained practical experience with tools such as COMSOL Multiphysics, MATLAB, Simulink, SolidWorks, and ANSYS. These tools have helped me connect theoretical concepts with computational models and engineering decisions. I am comfortable learning new software workflows, documenting technical procedures, and communicating simulation results clearly to both technical and non-technical audiences.
+
+I am particularly interested in this internship because it would allow me to apply my background in thermal analysis and mechanical design to engineering problems with practical impact. I would be excited to contribute to projects involving energy storage, cooling systems, HVAC, battery packs, or sustainable energy technologies. I believe my combination of research experience, technical curiosity, and strong work ethic would allow me to make a meaningful contribution to your team.
+
+Thank you for your time and consideration. I would welcome the opportunity to further discuss how my background and skills align with this internship.
+
+Sincerely,
+Nguyen Dinh Phong
+
+Cover Letter 02 — R&D / Simulation Engineering Internship
+
+Dear Hiring Team,
+
+I am writing to apply for the R&D / Simulation Engineering Internship position. As a Mechanical Engineering student at VinUniversity, I have built my academic and research path around computational modeling, multiphysics simulation, CAD-based design, and engineering problem-solving. I am interested in joining an R&D environment where simulation is used not only as an analysis tool, but also as a way to guide design decisions and accelerate innovation.
+
+My research experience has exposed me to several simulation-driven engineering contexts. At the Center for Environmental Intelligence, I worked on multiphysics modeling for battery energy storage systems, focusing on thermal behavior and coupled physical phenomena. At NIO Lab, I have been involved in computational modeling and inverse design for nanophotonic structures using COMSOL and MATLAB-based workflows. During my research internship at Politecnico di Bari, I further strengthened my experience with COMSOL Multiphysics, MATLAB LiveLink, eigenfrequency analysis, frequency-domain studies, and topology optimization. These experiences helped me develop both technical modeling skills and the ability to approach complex engineering problems systematically.
+
+I also have hands-on experience with SolidWorks, Fusion 360, ANSYS, MATLAB, Simulink, and LaTeX. Through engineering projects and competitions, I have learned how to move from an initial problem statement to a working concept, prototype, simulation, and technical presentation. My leadership experience as the founder of WIABLES, a global assistive technology initiative, has also strengthened my ability to work across teams, communicate technical ideas, and design with users in mind.
+
+I am drawn to this internship because it aligns closely with my goal of becoming an engineer who can integrate mechanical fundamentals, computational tools, and research thinking into practical product and system development. I would be excited to contribute to simulation workflows, model validation, design optimization, or R&D documentation within your team.
+
+Thank you for considering my application. I would be grateful for the opportunity to discuss how my experience in simulation, research, and mechanical design could support your work.
+
+Sincerely,
+Nguyen Dinh Phong

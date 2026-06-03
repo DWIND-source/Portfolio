@@ -1,0 +1,56 @@
+ARTIFACT-04 · PROFESSIONAL EMAIL TEMPLATES
+
+Email Template 01 — Research Inquiry to a Professor
+
+Subject: Undergraduate Research Inquiry — Multiphysics Simulation / Thermal Systems
+
+Dear Professor [Last Name],
+
+My name is Nguyen Dinh Phong, and I am a Mechanical Engineering undergraduate student at VinUniversity. I am writing to ask whether there may be any research opportunities in your group for an undergraduate student with interests in multiphysics simulation, thermal systems, computational modeling, and engineering design.
+
+I have gained research experience in areas related to battery thermal management, COMSOL Multiphysics modeling, MATLAB-based simulation workflows, and simulation-driven engineering analysis. My current academic and research interests focus on how physics-based modeling and computational tools can be used to understand complex engineering systems and support better design decisions.
+
+I was particularly interested in your work on [specific research topic/paper/project], especially its connection to [specific point]. I would be grateful for the opportunity to contribute to your group in any capacity, whether through literature review, simulation setup, data analysis, technical documentation, or assisting with ongoing research tasks.
+
+I have attached my CV for your reference. Thank you very much for your time and consideration. I would be happy to provide any additional information if helpful.
+
+Sincerely,
+Nguyen Dinh Phong
+B.Sc. Mechanical Engineering, VinUniversity
+Email: [dinhphong26022005@gmail.com](mailto:dinhphong26022005@gmail.com)
+
+Email Template 02 — Cold Outreach to an Engineering Recruiter
+
+Subject: Mechanical Engineering Internship Inquiry — Simulation & Product Development
+
+Dear [Recruiter Name],
+
+My name is Nguyen Dinh Phong, and I am a Mechanical Engineering student at VinUniversity. I am reaching out to express my interest in internship opportunities related to mechanical design, simulation engineering, thermal systems, R&D, or product development at [Company Name].
+
+My background includes research experience in multiphysics simulation, battery thermal analysis, computational modeling, and CAD-based engineering design. I have worked with tools such as COMSOL Multiphysics, MATLAB, Simulink, SolidWorks, Fusion 360, and ANSYS. In addition to technical experience, I have participated in several innovation competitions and founded WIABLES, a global assistive technology initiative focused on user-centered engineering solutions.
+
+I am especially interested in [Company Name] because of its work in [specific area, product, technology, or engineering field]. I would appreciate the opportunity to be considered for any internship openings where my skills in simulation, mechanical design, research, and technical communication may be relevant.
+
+I have attached my CV for your review. Thank you for your time, and I would be grateful for any guidance regarding suitable opportunities or application steps.
+
+Best regards,
+Nguyen Dinh Phong
+B.Sc. Mechanical Engineering, VinUniversity
+Email: [dinhphong26022005@gmail.com](mailto:dinhphong26022005@gmail.com)
+
+Email Template 03 — Post-Application Follow-Up
+
+Subject: Follow-Up on Mechanical Engineering Internship Application
+
+Dear [Hiring Manager / Recruiter Name],
+
+I hope you are doing well. I am writing to follow up on my application for the [Position Title] position at [Company Name], which I submitted on [Date]. I remain very interested in this opportunity and would be grateful for any updates regarding the application process.
+
+I am particularly excited about this role because it aligns with my background in mechanical engineering, simulation-driven analysis, thermal systems, and research-based problem-solving. Through my academic and research experiences, I have developed skills in COMSOL Multiphysics, MATLAB, SolidWorks, ANSYS, and technical documentation, and I would be excited to apply these skills within your team.
+
+Thank you very much for your time and consideration. I understand that the hiring process can take time, and I appreciate the opportunity to be considered. Please let me know if there is any additional information I can provide.
+
+Best regards,
+Nguyen Dinh Phong
+B.Sc. Mechanical Engineering, VinUniversity
+Email: [dinhphong26022005@gmail.com](mailto:dinhphong26022005@gmail.com)
